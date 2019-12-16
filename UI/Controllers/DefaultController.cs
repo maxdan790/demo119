@@ -12,12 +12,15 @@ namespace UI.Controllers
         public ActionResult Index()
         {
             int i = 1;
+            string str = "";
             int j = 7;
             return View();
         }
+       
 
         public void Add()
         { }
 
+     
     }
 }
