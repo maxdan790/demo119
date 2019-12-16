@@ -14,6 +14,11 @@ namespace UI.Controllers
             int i = 1;
             return View();
         }
+       
+
+        public void Add()
+        { }
+
      
     }
 }
