@@ -14,7 +14,7 @@ namespace UI.Controllers
             int i = 1;
             return View();
         }
-        public void Del()
+        public void Del1()
         { }
     }
 }
